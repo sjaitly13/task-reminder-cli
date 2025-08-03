@@ -136,10 +136,6 @@ python task_cli.py --help
 
 MIT License - see LICENSE file for details
 
-## Demo
-
-Watch our demo video showing the CLI in action: [Demo Video Link]
-
 ---
 
-Built with ❤️ using Python, MongoDB, and modern CLI practices by [Sarish Jaitly](https://github.com/sjaitly13). 
+Built with ❤️ using Python, MongoDB, and modern CLI practices by [Sarisha Jaitly](https://github.com/sjaitly13). 

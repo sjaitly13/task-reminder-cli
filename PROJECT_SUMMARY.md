@@ -166,6 +166,5 @@ Perfect for showcasing to companies like:
 
 ---
 
-**Built with ❤️ by [Sarish Jaitly](https://github.com/sjaitly13)**
+**Built with ❤️ by [Sarisha Jaitly](https://github.com/sjaitly13)**
 
-This project showcases advanced Python development skills, cloud integration expertise, and modern software engineering practices. Perfect for demonstrating technical capabilities to potential employers or collaborators. 
